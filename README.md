@@ -3,7 +3,7 @@
 Solo un poco de practica basica para reforzar conocmientos, parte del programa Alula - ruta Backend.
 
 La funcion realiza: 
-- visualización de monto.
+- visualización de monto y datos del cliente.
 - suma (deposito) de un monto ficticio añadido mediandte terminal.
 - resta (retiro)  de un monto ficticio añadido mediandte terminal.
 - salida
